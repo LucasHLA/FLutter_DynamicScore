@@ -1,4 +1,4 @@
-# Dynamic Score 
+# Dynamic Score Board
 
 English
 
